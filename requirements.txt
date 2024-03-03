@@ -1,0 +1,5 @@
+django
+easy-thumbnails
+crispy_bootstrap5
+djangorestframework
+WeasyPrint

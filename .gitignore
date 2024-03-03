@@ -1,0 +1,7 @@
+/media
+.venv
+.env
+*.sqlite3
+justfile
+*.pyc
+.vscode/
